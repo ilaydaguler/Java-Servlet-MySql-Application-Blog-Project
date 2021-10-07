@@ -1,17 +1,20 @@
 # Java Servlet MySql Application Blog Project
 
-Application Description
+Thanks to the blog project, users can publish blog posts on the topics they want on the website. Users can add, edit and delete posts using the admin panel. Before entering the admin panel, a user login is required. Every logged-in user can write his own blog post and save it to the database. In this section, each user can only see, delete and update their own blog posts. On the website, all blog posts can be seen together and detailed information can be accessed. In addition, comments can be sent to users via the contact page.
+
+## Demo Account Information
+
+| Mail | :arrow_right: | Password |
+| ------------- |:-------------:|:-------------:|
+| ayşe@mail.com | :arrow_right: | 12345 |
 
 ## Used Languages & Abilities
-
-
 
 | Languages / Abilities | :arrow_right: | % |
 | ------------- |:-------------:|:-------------:|
 | Java | :arrow_right: | 90 |
 | Servlet | :arrow_right: | 80 |
-| Html | :arrow_right: | 70 |
-| Bootstrap5 | :arrow_right: | 50 |
+| HTML-CSS | :arrow_right: | 70 |
 | MySQL| :arrow_right: | 70 |
 
 ## Application images
