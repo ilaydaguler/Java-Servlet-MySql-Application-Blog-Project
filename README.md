@@ -6,7 +6,7 @@ Thanks to the blog project, users can publish blog posts on the topics they want
 
 | Mail | :arrow_right: | Password |
 | ------------- |:-------------:|:-------------:|
-| ayşe@mail.com | :arrow_right: | 12345 |
+| ayse@mail.com | :arrow_right: | 12345 |
 
 ## Used Languages & Abilities
 
