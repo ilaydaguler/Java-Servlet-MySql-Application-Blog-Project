@@ -47,6 +47,7 @@ Thanks to the blog project, users can publish blog posts on the topics they want
 <a href="https://github.com/ilaydaguler/Java-Servlet-MySql-Application-Blog-Project/blob/main/images/9.jpg" target="_blank">
 <img src="https://github.com/ilaydaguler/Java-Servlet-MySql-Application-Blog-Project/blob/main/images/9.jpg" width="200" style="max-width:100%;"></a>
   
+  
 </p>
 
 
